@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kony1337
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python&java
-- 📫 How to reach me (you just cant)
+- 📫 How to reach me (.gg/Xq4bNzKWgW)
 
 <!---
 kony1337/kony1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
